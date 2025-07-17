@@ -44,11 +44,11 @@ links:
   - link:
       icon: "fa-brands fa-telegram"
       text: "Telegram"
-      url: "https://zhgchg.li/"
+      url: "https://t.me/Mylena_AngelicaS"
       alt: "Mylena's Telegram"
       title: "Mylena's Telegram"
       target: "_blank"
- - link:
+  - link:
       icon: "fa-brands fa-github"
       text: "Github"
       url: "https://github.com/Mylena-angelica/"
@@ -56,18 +56,18 @@ links:
       title: "Mylena's GitHub"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-github"
+      icon: "fa-brands fa-gitlab"
       text: "Salsa"
-      url: "https://github.com/Mylena-angelica/"
+      url: "https://salsa.debian.org/mylena-angelica"
       alt: "Mylena's Salsa"
       title: "Mylena's Salsa"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-app-store-ios"
+      icon: "fa-solid fa-folder"
       text: "Slides"
-      url: "https://github.com/ZhgChgLi/ZReviewTender"
-      alt: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
-      title: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
+      url: "https://drive.google.com/drive/folders/1C7ZlefgOTP6fn7cDXY3bGkXEGNPEx5fV?usp=sharing"
+      alt: "Mylena's Slides"
+      title: "Mylena's Slides"
       target: "_blank"
 
 
