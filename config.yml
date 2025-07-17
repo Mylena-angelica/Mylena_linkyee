@@ -4,38 +4,20 @@
 theme: default
 
 # HTML Language setting
-lang: "en"
-
-# Plugins, implemented in ./plugins/PLUGIN_NAME
-# Use {{ vars.PLUGIN_NAME }} in the settings below
-
-# The output of the plugin can be used below, e.g., {{vars.MediumFollowersCountPlugin}}
-plugins:
-  # Automatically fetch Medium follower count
-  - MediumFollowersCountPlugin:
-      username: zhgchgli
-  # Automatically fetch Github repo star count
-  - GithubRepoStarsCountPlugin:
-      - ZhgChgLi/ZMarkupParser
-      - ZhgChgLi/ZReviewTender
-      - ZhgChgLi/ZMediumToMarkdown
-      - ZhgChgLi/linkyee
-
-# Google Analytics tracking id
-google_analytics_id:
+lang: "pt-br"
 
 # HTML Title
-title: "ZhgChgLi's Links"
+title: "Mylena Angélica"
 
 # Avatar image path
-avatar: "./images/profile.jpeg"
+avatar: "./images/mylena.jpeg"
 
 # Name section text
-name: "@zhgchgli"
+name: "@mylena-angelica"
 
 # Tagline section text
 tagline: >-
-    An iOS, web, and automation developer from Taiwan 🇹🇼 who also loves sharing, traveling, and writing.
+    An software engineer from Brazil 🇧🇷 who loves inovation, sustainability, artificial intelligence, gamification and much more.
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -46,11 +28,11 @@ tagline: >-
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-      icon: "fa-brands fa-medium"
-      text: "Tech Blog <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
-      url: "https://blog.zhgchg.li"
-      alt: "ZhgChgLi's Tech Blog"
-      title: "ZhgChgLi's Tech Blog"
+      icon: "fa-brands fa-github"
+      text: "Github"
+      url: "https://github.com/Mylena-angelica/"
+      alt: "Mylena's GitHub"
+      title: "Mylena's GitHub"
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"
@@ -104,40 +86,28 @@ links:
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
-      icon: "fa-brands fa-medium"
-      url: "https://blog.zhgchg.li"
-      title: "ZhgChgLi's Medium"
-      alt: "ZhgChgLi's Medium"
-      target: "_blank"
-  - social:
       icon: "fa-brands fa-github"
-      url: "https://github.com/ZhgChgLi"
-      title: "ZhgChgLi's GitHub"
-      alt: "ZhgChgLi's GitHub"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-twitter"
-      url: "https://twitter.com/zhgchgli"
-      title: "ZhgChgLi's Twitter"
-      alt: "ZhgChgLi's Twitter"
+      url: "https://github.com/Mylena-angelica/"
+      title: "Mylena's GitHub"
+      alt: "Mylena's GitHub"
       target: "_blank"
   - social:
       icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/zhgchgli/"
-      title: "ZhgChgLi's LinkedIn"
-      alt: "ZhgChgLi's LinkedIn"
+      url: "https://www.linkedin.com/in/mylena-angelica/"
+      title: "Mylena's LinkedIn"
+      alt: "Mylena's LinkedIn"
       target: "_blank"
   - social:
       icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/zhgchgli/"
+      url: "https://www.instagram.com/mylys2/"
       title: "Instagram"
-      alt: "ZhgChgLi's Instagram"
+      alt: "Mylena's Instagram"
       target: "_blank"
   - social:
       icon: "fa-solid fa-envelope"
-      url: "mailto:zhgchgli@gmail.com"
-      title: "Email: zhgchgli@gmail.com"
-      alt: "zhgchgli@gmail.com"
+      url: "mailto:mylena.asf@gmail.com"
+      title: "Email: mylena.asf@gmail.com"
+      alt: "mylena.asf@gmail.com"
       target: "_blank"
 
 # Footer text
